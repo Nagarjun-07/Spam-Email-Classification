@@ -1,4 +1,5 @@
 # Spam Email Classification using NLP and Machine Learning  
+![image](https://github.com/user-attachments/assets/71058c8a-2cc0-42c5-af0d-9118a3cfa323)
 
 Spam Email Classification using NLP and Machine Learning focuses on building a machine learning model to classify emails as either **"spam"** or **"ham"** using Natural Language Processing (NLP) techniques and Python. The model processes email data from the widely used `spam.csv` dataset and applies text preprocessing and feature extraction techniques to train a robust classifier.
 
