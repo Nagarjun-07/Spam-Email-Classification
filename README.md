@@ -25,3 +25,20 @@ The `spam.csv` dataset was used for training and testing the model. It contains 
 
 ```bash
 git clone https://github.com/Nagarjun-07/Spam-Email-Classification
+```
+cd Spam-Email-Classification
+
+### Step 2: Install Required Libraries  
+
+After cloning the repository, ensure you install all the necessary dependencies to run the project smoothly. Follow these steps:
+1. Ensure you have Python 3.x installed on your system. If not, download and install it from the [official Python website](https://www.python.org/).  
+2. Navigate to the project directory (if not already there):  
+
+```bash
+cd Spam-Email-Classification
+pip install -r requirements.txt
+streamlit run Spam_Detector.py
+```
+This detailed explanation should cover all necessary steps after cloning the repository and ensure the project runs smoothly. Let me know if you'd like further adjustments!
+
+
